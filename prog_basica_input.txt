@@ -1,0 +1,7 @@
+esto es una línea
+esto es una segunda línea
+
+la anterior es una línea en blanco
+y este es el fin
+
+Que bien!!
